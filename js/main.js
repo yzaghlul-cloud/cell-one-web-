@@ -173,7 +173,15 @@ function renderPromocionesPersonas(personas) {
         </thead>
         <tbody>${filas}</tbody>
       </table>
-    </div>`;
+    </div>
+    ${
+      personas.terminos?.length
+        ? `<details class="promo-details">
+            <summary>Ver condiciones</summary>
+            <ul>${personas.terminos.map((t) => `<li>${t}</li>`).join("")}</ul>
+          </details>`
+        : ""
+    }`;
 }
 
 function renderPromocionesPymes(pymes) {

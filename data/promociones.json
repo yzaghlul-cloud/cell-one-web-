@@ -2,10 +2,15 @@
   "personas": {
     "notaGeneral": "SIM card o eSIM y gestión de activación GRATIS. El cliente solo paga el monto de la recarga del plan que seleccione. No hay costos adicionales por la tarjeta SIM ni por la activación.",
     "planes": [
-      { "nombre": "Movistar Plus 4 GB", "datos": "4 GB", "minutos": "200", "sms": "400", "recarga": "Bs. 3.300,00", "recomendado": true },
-      { "nombre": "Movistar Plus 6 GB", "datos": "6 GB", "minutos": "300", "sms": "600", "recarga": "Bs. 4.800,00", "recomendado": false },
-      { "nombre": "Movistar Plus 10 GB", "datos": "10 GB", "minutos": "400", "sms": "800", "recarga": "Bs. 7.800,00", "recomendado": false },
-      { "nombre": "Movistar Plus 25 GB", "datos": "25 GB", "minutos": "600", "sms": "1200", "recarga": "Bs. 12.000,00", "recomendado": false }
+      { "nombre": "Movistar Plus 4 GB", "datos": "4 GB", "minutos": "200", "sms": "400", "recarga": "Bs. 3.900,00", "recomendado": true },
+      { "nombre": "Movistar Plus 6 GB", "datos": "6 GB", "minutos": "300", "sms": "600", "recarga": "Bs. 5.700,00", "recomendado": false },
+      { "nombre": "Movistar Plus 10 GB", "datos": "10 GB", "minutos": "400", "sms": "800", "recarga": "Bs. 9.000,00", "recomendado": false },
+      { "nombre": "Movistar Plus 25 GB", "datos": "25 GB", "minutos": "600", "sms": "1200", "recarga": "Bs. 14.100,00", "recomendado": false }
+    ],
+    "terminos": [
+      "Gestión administrativa nuevas líneas: Bs. 336,95",
+      "Consumo adicional — Minuto: Bs. 14,98 / SMS: Bs. 14,98 / MB: Bs. 1,01788",
+      "Los precios incluyen IVA"
     ]
   },
   "pymes": {
