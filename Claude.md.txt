@@ -1,0 +1,84 @@
+# Project Context — Cell # One
+
+## Overview
+Build and maintain a professional commercial website for Cell # One, an authorized Movistar agent focused on:
+- PYMES.
+- Natural persons.
+
+The website must help convert visitors into WhatsApp leads and contact form submissions.
+
+## Brand Identity
+- Company name: Cell # One.
+- Logo file: assets/logocellone.png.
+- Visual style: modern, corporate, telecom, trustworthy.
+- Use the logo in the header, footer, and favicon if possible.
+- Keep the logo undistorted and aligned with the brand palette.
+
+## Business Model
+Cell # One offers:
+- Movistar activations.
+- Monthly commercial promotions.
+- Plans and services for PYMES.
+- Plans and services for natural persons.
+- Phones and accessories from recognized brands.
+
+## Core Audience
+Primary users:
+- Business owners and managers looking for telecom solutions.
+- Individuals looking for plans, activations, or devices.
+- Users who need to review requirements before contacting sales.
+
+## Site Goals
+The site must:
+- Generate leads through WhatsApp and forms.
+- Clearly separate PYMES and natural persons.
+- Present monthly promotions in an easy-to-update way.
+- Explain requirements and documents for activations.
+- Display phones and accessories clearly.
+- Build trust and make contact easy.
+
+## Required Sections
+The website should include:
+1. Header with logo, navigation, and WhatsApp CTA.
+2. Hero section with value proposition and main action buttons.
+3. Quick access for PYMES and natural persons.
+4. Monthly promotions section.
+5. Services section.
+6. Requirements and documents section.
+7. Phones and accessories catalog.
+8. FAQ section.
+9. Contact form section.
+10. Footer with address, hours, social links, and legal info.
+
+## Content Rules
+- Do not invent promotions, prices, requirements, or conditions.
+- Use placeholders when business data is missing.
+- Keep copy short, commercial, and clear.
+- Differentiate PYMES and natural persons throughout the site.
+- Explain required documents in simple language.
+
+## Design Rules
+- Use the logo colors as the base palette.
+- Keep the layout clean and uncluttered.
+- Prioritize mobile usability.
+- Keep CTAs visible and easy to click.
+- Repeat the logo in the header and footer.
+- Preserve logo proportions at all times.
+
+## Technical Preferences
+- Use HTML, CSS, and JavaScript unless otherwise specified.
+- Prefer maintainable structure and accessible markup.
+- Use reusable components when possible.
+- Keep promotional content easy to edit monthly.
+
+## Editing Guidance
+If promotional data changes, update only the relevant section content.
+If brand assets change, update files in /assets and adjust references accordingly.
+If the structure grows, split page sections into modular files.
+
+## Working Style
+Before making major changes:
+- Review the current structure.
+- Preserve existing branding unless instructed otherwise.
+- Prefer minimal, safe edits over unnecessary rewrites.
+- Ask for clarification if required business information is missing.

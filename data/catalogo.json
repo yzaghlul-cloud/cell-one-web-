@@ -1,0 +1,433 @@
+{
+  "vigencia": "Precios vigentes desde el 29/07/2026 hasta el 15/08/2026. Sujetos a disponibilidad.",
+  "condiciones": [
+    "Los precios no incluyen IVA (16%).",
+    "El precio en bolívares se calculará según la tasa BCV del día de la compra."
+  ],
+  "marcas": [
+    {
+      "marca": "Honor",
+      "equipos": [
+        {
+          "modelo": "Honor Watch 2i",
+          "categoria": "accesorio",
+          "imagen": "assets/catalogo/honor-watch-2i.jpg",
+          "descripcion": "Reloj inteligente",
+          "variantes": [{ "config": "Único", "precio": "$38" }]
+        },
+        {
+          "modelo": "Honor Earbuds Cubuds",
+          "categoria": "accesorio",
+          "imagen": "assets/catalogo/honor-earbuds-cubuds.jpg",
+          "descripcion": "Audífonos inalámbricos",
+          "variantes": [{ "config": "Único", "precio": "$44" }]
+        },
+        {
+          "modelo": "Honor Choice T10",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/honor-choice-t10.jpg",
+          "specs": { "camara": "13MP / 5MP", "bateria": "5000 mAh", "pantalla": "6.75\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "32GB / 3GB", "agotado": true },
+            { "config": "64GB / 4GB", "precio": "$124" }
+          ]
+        },
+        {
+          "modelo": "Honor Play 10",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/honor-play-10.jpg",
+          "specs": { "camara": "13MP / 5MP", "bateria": "5000 mAh", "pantalla": "6.74\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "64GB / 3GB", "precio": "$127" }]
+        },
+        {
+          "modelo": "Honor X5C",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/honor-x5c.jpg",
+          "specs": { "camara": "13MP+2MP / 5MP", "bateria": "5260 mAh", "pantalla": "6.74\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "128GB / 4GB", "precio": "$165" }]
+        },
+        {
+          "modelo": "Honor X5D",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/honor-x5d.jpg",
+          "specs": { "camara": "13MP+2MP / 5MP", "bateria": "5260 mAh", "pantalla": "6.74\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "64GB / 4GB", "agotado": true },
+            { "config": "128GB / 4GB", "agotado": true }
+          ]
+        },
+        {
+          "modelo": "Honor X6C",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/honor-x6c.jpg",
+          "specs": { "camara": "50MP+2MP / 5MP", "bateria": "5300 mAh", "pantalla": "6.61\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "256GB / 6GB", "precio": "$208" }]
+        },
+        {
+          "modelo": "Honor X7D",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/honor-x7d.jpg",
+          "specs": { "camara": "50MP+2MP / 5MP", "bateria": "6500 mAh", "pantalla": "6.7\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "256GB / 6GB", "precio": "$264" }]
+        },
+        {
+          "modelo": "Honor X8D",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/honor-x8d.jpg",
+          "specs": { "camara": "108MP+5MP / 16MP", "bateria": "7000 mAh", "pantalla": "6.77\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "256GB / 8GB", "precio": "$394" },
+            { "config": "512GB / 8GB", "precio": "$439" }
+          ]
+        },
+        {
+          "modelo": "Honor Magic 8 Lite",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/honor-magic-8-lite.jpg",
+          "specs": { "camara": "108MP+5MP / 16MP", "bateria": "8300 mAh", "pantalla": "6.78\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "256GB / 8GB", "agotado": true },
+            { "config": "512GB / 8GB", "precio": "$604" }
+          ]
+        },
+        {
+          "modelo": "Honor 600E",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/honor-600e.jpg",
+          "specs": { "camara": "108MP+5MP / 16MP", "bateria": "6520 mAh", "pantalla": "6.6\"", "huella": "Sí", "red": "5G" },
+          "variantes": [
+            { "config": "256GB / 8GB", "precio": "$520" },
+            { "config": "512GB / 8GB", "precio": "$632" }
+          ]
+        },
+        {
+          "modelo": "Honor 600",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/honor-600.jpg",
+          "specs": { "camara": "200MP+12MP / 50MP", "bateria": "6400 mAh", "pantalla": "6.57\"", "huella": "Sí", "red": "5G" },
+          "variantes": [{ "config": "256GB / 8GB", "precio": "$748" }]
+        }
+      ]
+    },
+    {
+      "marca": "Samsung",
+      "equipos": [
+        {
+          "modelo": "Samsung Galaxy A06",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-a06.jpg",
+          "specs": { "camara": "50MP+2MP / 8MP", "bateria": "5000 mAh", "pantalla": "6.7\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "64GB / 4GB", "precio": "$145" }]
+        },
+        {
+          "modelo": "Samsung Galaxy A07",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-a07.jpg",
+          "specs": { "camara": "50MP+2MP / 8MP", "bateria": "5000 mAh", "pantalla": "6.7\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "64GB / 4GB", "precio": "$171" },
+            { "config": "128GB / 4GB", "precio": "$191" }
+          ]
+        },
+        {
+          "modelo": "Samsung Galaxy A16",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-a16.jpg",
+          "specs": { "camara": "50MP+5MP+2MP / 13MP", "bateria": "5000 mAh", "pantalla": "6.7\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "128GB / 4GB", "precio": "$200" }]
+        },
+        {
+          "modelo": "Samsung Galaxy A17",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-a17.jpg",
+          "specs": { "camara": "50MP+5MP+2MP / 13MP", "bateria": "5000 mAh", "pantalla": "6.7\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "128GB / 4GB", "precio": "$232" },
+            { "config": "128GB / 6GB", "precio": "$260" },
+            { "config": "256GB / 8GB", "precio": "$325" }
+          ]
+        },
+        {
+          "modelo": "Samsung Galaxy A27 5G",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-a27-5g.jpg",
+          "specs": { "camara": "50MP+5MP+2MP / 12MP", "bateria": "5000 mAh", "pantalla": "6.7\"", "huella": "Sí", "red": "5G" },
+          "variantes": [
+            { "config": "128GB / 6GB", "precio": "$340" },
+            { "config": "256GB / 8GB", "precio": "$440" }
+          ]
+        },
+        {
+          "modelo": "Samsung Galaxy A37 5G",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-a37-5g.jpg",
+          "specs": { "camara": "50MP+8MP+5MP / 12MP", "bateria": "5000 mAh", "pantalla": "6.7\"", "huella": "Sí", "red": "5G" },
+          "variantes": [
+            { "config": "128GB / 6GB", "agotado": true },
+            { "config": "256GB / 8GB", "precio": "$483" }
+          ]
+        },
+        {
+          "modelo": "Samsung Galaxy A56 5G",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-a56-5g.jpg",
+          "specs": { "camara": "50MP+12MP+5MP / 12MP", "bateria": "5000 mAh", "pantalla": "6.7\"", "huella": "Sí", "red": "5G" },
+          "variantes": [{ "config": "256GB / 12GB", "precio": "$508" }]
+        },
+        {
+          "modelo": "Samsung Galaxy A57 5G",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-a57-5g.jpg",
+          "specs": { "camara": "50MP+12MP+5MP / 12MP", "bateria": "5000 mAh", "pantalla": "6.7\"", "huella": "Sí", "red": "5G" },
+          "variantes": [
+            { "config": "128GB / 8GB", "precio": "$507" },
+            { "config": "256GB / 8GB", "precio": "$559" },
+            { "config": "512GB / 12GB", "precio": "$762" }
+          ]
+        },
+        {
+          "modelo": "Samsung Galaxy S25",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-s25.jpg",
+          "specs": { "camara": "50MP+12MP+8MP / 12MP", "bateria": "4000 mAh", "pantalla": "6.2\"", "huella": "Sí", "red": "5G" },
+          "variantes": [{ "config": "128GB / 12GB", "precio": "$748" }]
+        },
+        {
+          "modelo": "Samsung Galaxy S25 Ultra",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-s25-ultra.jpg",
+          "specs": { "camara": "200MP+50MP+50MP+10MP / 12MP", "bateria": "5000 mAh", "pantalla": "6.9\"", "huella": "Sí", "red": "5G" },
+          "variantes": [{ "config": "1TB / 12GB", "precio": "$1.327" }]
+        },
+        {
+          "modelo": "Samsung Galaxy S26",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-s26.jpg",
+          "specs": { "camara": "50MP+12MP+10MP / 12MP", "bateria": "4300 mAh", "pantalla": "6.3\"", "huella": "Sí", "red": "5G" },
+          "variantes": [
+            { "config": "256GB / 12GB", "precio": "$974" },
+            { "config": "512GB / 12GB", "precio": "$1.158" }
+          ]
+        },
+        {
+          "modelo": "Samsung Galaxy S26 Plus",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-s26-plus.jpg",
+          "specs": { "camara": "50MP+12MP+10MP / 12MP", "bateria": "4900 mAh", "pantalla": "6.7\"", "huella": "Sí", "red": "5G" },
+          "variantes": [
+            { "config": "256GB / 12GB", "precio": "$1.186" },
+            { "config": "512GB / 12GB", "precio": "$1.369" }
+          ]
+        },
+        {
+          "modelo": "Samsung Galaxy S26 Ultra",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/samsung-galaxy-s26-ultra.jpg",
+          "specs": { "camara": "200MP+50MP+50MP+10MP / 12MP", "bateria": "5000 mAh", "pantalla": "6.9\"", "huella": "Sí", "red": "5G" },
+          "variantes": [
+            { "config": "256GB / 12GB", "precio": "$1.412" },
+            { "config": "512GB / 12GB", "precio": "$1.687" },
+            { "config": "1TB / 16GB", "precio": "$1.906" }
+          ]
+        }
+      ]
+    },
+    {
+      "marca": "Xiaomi",
+      "equipos": [
+        {
+          "modelo": "Redmi A7",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/redmi-a7.jpg",
+          "specs": { "camara": "13MP / 8MP", "bateria": "5200 mAh", "pantalla": "6.88\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "64GB / 3GB", "precio": "$136" }]
+        },
+        {
+          "modelo": "Redmi A7 Pro",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/redmi-a7-pro.jpg",
+          "specs": { "camara": "50MP+2MP / 8MP", "bateria": "6000 mAh", "pantalla": "6.88\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "64GB / 4GB", "precio": "$141" },
+            { "config": "128GB / 4GB", "precio": "$158" }
+          ]
+        },
+        {
+          "modelo": "Redmi 15C",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/redmi-15c.jpg",
+          "specs": { "camara": "50MP+2MP / 8MP", "bateria": "6000 mAh", "pantalla": "6.9\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "128GB / 4GB", "precio": "$179" },
+            { "config": "256GB / 8GB", "precio": "$220" }
+          ]
+        },
+        {
+          "modelo": "Redmi 15",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/redmi-15.jpg",
+          "specs": { "camara": "50MP+2MP / 8MP", "bateria": "7000 mAh", "pantalla": "6.9\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "128GB / 6GB", "precio": "$203" },
+            { "config": "256GB / 8GB", "precio": "$243" }
+          ]
+        },
+        {
+          "modelo": "Note 15 Pro",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/redmi-note-15-pro.jpg",
+          "specs": { "camara": "200MP+8MP+2MP / 32MP", "bateria": "6500 mAh", "pantalla": "6.77\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "256GB / 8GB", "precio": "$367" }]
+        },
+        {
+          "modelo": "Note 15 Pro 5G",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/redmi-note-15-pro-5g.jpg",
+          "specs": { "camara": "200MP+8MP / 20MP", "bateria": "6580 mAh", "pantalla": "6.83\"", "huella": "Sí", "red": "5G" },
+          "variantes": [
+            { "config": "256GB / 8GB", "agotado": true },
+            { "config": "512GB / 8GB", "precio": "$445" }
+          ]
+        },
+        {
+          "modelo": "Note 15 Pro Plus 5G",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/redmi-note-15-pro-plus-5g.jpg",
+          "specs": { "camara": "200MP+8MP / 32MP", "bateria": "6500 mAh", "pantalla": "6.83\"", "huella": "Sí", "red": "5G" },
+          "variantes": [
+            { "config": "256GB / 8GB", "precio": "$487" },
+            { "config": "512GB / 12GB", "precio": "$548" }
+          ]
+        },
+        {
+          "modelo": "Xiaomi 17T",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/xiaomi-17t.jpg",
+          "specs": { "camara": "50MP+50MP+12MP / 32MP", "bateria": "6500 mAh", "pantalla": "6.59\"", "huella": "Sí", "red": "5G" },
+          "variantes": [{ "config": "512GB / 12GB", "precio": "$776" }]
+        },
+        {
+          "modelo": "Xiaomi 17T Pro",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/xiaomi-17t-pro.jpg",
+          "specs": { "camara": "50MP+50MP+12MP / 32MP", "bateria": "7000 mAh", "pantalla": "6.83\"", "huella": "Sí", "red": "5G" },
+          "variantes": [{ "config": "512GB / 12GB", "precio": "$988" }]
+        },
+        {
+          "modelo": "Xiaomi 17",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/xiaomi-17.jpg",
+          "specs": { "camara": "50MP+50MP+50MP / 50MP", "bateria": "6330 mAh", "pantalla": "6.3\"", "huella": "Sí", "red": "5G" },
+          "variantes": [{ "config": "512GB / 12GB", "precio": "$1.129" }]
+        },
+        {
+          "modelo": "Xiaomi 17 Ultra",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/xiaomi-17-ultra.jpg",
+          "specs": { "camara": "50MP+50MP+50MP / 50MP", "bateria": "6000 mAh", "pantalla": "6.9\"", "huella": "Sí", "red": "5G" },
+          "variantes": [{ "config": "512GB / 16GB", "precio": "$1.581" }]
+        },
+        {
+          "modelo": "POCO C81 Pro",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/poco-c81-pro.jpg",
+          "specs": { "camara": "13MP+2MP / 8MP", "bateria": "6000 mAh", "pantalla": "6.9\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "128GB / 4GB", "precio": "$165" }]
+        },
+        {
+          "modelo": "POCO M8 Pro 5G",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/poco-m8-pro-5g.jpg",
+          "specs": { "camara": "50MP+8MP / 32MP", "bateria": "6500 mAh", "pantalla": "6.83\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "256GB / 8GB", "precio": "$356" },
+            { "config": "512GB / 12GB", "precio": "$433" }
+          ]
+        },
+        {
+          "modelo": "POCO X8 Pro",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/poco-x8-pro.jpg",
+          "specs": { "camara": "50MP+8MP / 20MP", "bateria": "6500 mAh", "pantalla": "6.6\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "512GB / 8GB", "agotado": true }]
+        }
+      ]
+    },
+    {
+      "marca": "Infinix",
+      "equipos": [
+        {
+          "modelo": "Infinix Smart 20",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/infinix-smart-20.webp",
+          "specs": { "camara": "8MP+2MP / 8MP", "bateria": "5200 mAh", "pantalla": "6.78\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "64GB / 4GB", "precio": "$155" },
+            { "config": "128GB / 4GB", "precio": "$176" }
+          ]
+        },
+        {
+          "modelo": "Infinix Hot 70",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/infinix-hot-70.jpg",
+          "specs": { "camara": "50MP+2MP+2MP / 8MP", "bateria": "5600 mAh", "pantalla": "6.78\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "128GB / 4GB", "precio": "$223" },
+            { "config": "256GB / 4GB", "precio": "$243" },
+            { "config": "256GB / 8GB", "precio": "$305" }
+          ]
+        },
+        {
+          "modelo": "Infinix Note 60 Pro",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/infinix-note-60-pro.webp",
+          "specs": { "camara": "50MP+8MP / 13MP", "bateria": "6500 mAh", "pantalla": "6.78\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "256GB / 8GB", "precio": "$544" }]
+        }
+      ]
+    },
+    {
+      "marca": "Tecno",
+      "equipos": [
+        {
+          "modelo": "Tecno Spark Go 3",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/tecno-spark-go-3.jpg",
+          "specs": { "camara": "13MP / 8MP", "bateria": "5000 mAh", "pantalla": "6.74\"", "huella": "Sí", "red": "4G" },
+          "variantes": [
+            { "config": "64GB / 4GB", "precio": "$147" },
+            { "config": "128GB / 4GB", "precio": "$178" }
+          ]
+        },
+        {
+          "modelo": "Tecno Spark 50",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/tecno-spark-50.webp",
+          "specs": { "camara": "50MP / 8MP", "bateria": "7000 mAh", "pantalla": "6.78\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "256GB / 4GB", "agotado": true }]
+        },
+        {
+          "modelo": "Tecno Spark 50 5G",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/tecno-spark-50-5g.webp",
+          "specs": { "camara": "50MP / 8MP", "bateria": "6500 mAh", "pantalla": "6.78\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "256GB / 6GB", "precio": "$343" }]
+        },
+        {
+          "modelo": "Tecno Camon 50 Pro + Regalo",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/tecno-camon-50-pro.jpg",
+          "specs": { "camara": "50MP+50MP+8MP / 50MP", "bateria": "6150 mAh", "pantalla": "6.78\"", "huella": "Sí", "red": "4G" },
+          "variantes": [{ "config": "256GB / 8GB", "precio": "$459" }]
+        },
+        {
+          "modelo": "Tecno Camon 50 Ultra + Regalo",
+          "categoria": "telefono",
+          "imagen": "assets/catalogo/tecno-camon-50-ultra.jpg",
+          "specs": { "camara": "50MP+50MP+8MP / 50MP", "bateria": "6150 mAh", "pantalla": "6.78\"", "huella": "Sí", "red": "5G" },
+          "variantes": [{ "config": "256GB / 8GB", "precio": "$508" }]
+        }
+      ]
+    }
+  ]
+}
