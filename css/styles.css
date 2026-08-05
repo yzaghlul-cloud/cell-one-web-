@@ -721,6 +721,51 @@ textarea:focus-visible {
   margin-bottom: var(--space-2);
 }
 
+.pyme-resumen-texto {
+  color: var(--color-text-muted);
+  font-size: 0.88rem;
+  margin-bottom: var(--space-2);
+}
+
+.pyme-niveles {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.pyme-niveles li {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-2);
+  padding: 0.6rem 0;
+  border-top: 1px solid var(--color-border);
+}
+
+.pyme-nivel-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.pyme-nivel-nombre {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--color-navy-950);
+}
+
+.pyme-nivel-desc {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+.pyme-nivel-precio {
+  font-weight: 700;
+  color: var(--color-brand-blue);
+  white-space: nowrap;
+  font-size: 0.9rem;
+}
+
 .promo-resumen {
   font-weight: 600;
   margin-bottom: 0.25rem;

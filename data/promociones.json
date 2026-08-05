@@ -17,63 +17,82 @@
     "notaGeneral": "Válido para todas las activaciones: SimCard y eSIM gratis y sin costo de activación.",
     "planes": [
       {
-        "nombre": "Conectividad M2M (Machine to Machine)",
-        "slogan": "Conecta y descubre el poder al instante — Conecta con lo que Te mueve",
+        "nombre": "Soluciones móviles — Movistar Plus PYME",
+        "slogan": "El aliado integral del sector productivo",
         "variantes": [
-          { "nombre": "Plan Transmite M2M", "datos": "1.5 GB", "sms": "200", "minutos": "—", "precio": "Bs. 971,21" },
-          { "nombre": "Plan Empresas M2M", "datos": "300 MB", "sms": "200", "minutos": "—", "precio": "Bs. 971,21" },
-          { "nombre": "Plan Transmite Plus M2M", "datos": "1.5 GB", "sms": "200", "minutos": "100 min", "precio": "Bs. 996,73" },
-          { "nombre": "Plan Empresas Plus M2M", "datos": "300 MB", "sms": "200", "minutos": "100 min", "precio": "Bs. 996,73" }
+          { "nombre": "Movistar Plus 4 GB", "datos": "4 GB + 1 GB", "minutos": "200 + 200", "sms": "400 + 400", "precio": "Bs. 3.429,44" },
+          { "nombre": "Movistar Plus 6 GB", "datos": "6 GB + 1.5 GB", "minutos": "300 + 300", "sms": "600 + 600", "precio": "Bs. 5.136,67" },
+          { "nombre": "Movistar Plus 10 GB", "datos": "10 GB + 2 GB", "minutos": "400 + 400", "sms": "800 + 800", "precio": "Bs. 7.709,50" },
+          { "nombre": "Movistar Plus 25 GB", "datos": "25 GB + 3 GB", "minutos": "600 + 600", "sms": "1200 + 1200", "precio": "Bs. 12.197,72" }
         ],
         "terminos": [
-          "MB adicionales: Bs. 0,75366",
-          "SMS adicional: Bs. 11,08999",
-          "Precio de la SIM Card: Bs. 643,13",
-          "Disponible solo para equipos 3G y 4G",
-          "M2M Empresas: para clientes que requieren conectar dispositivos de localización a través de Internet",
-          "M2M Transmite: para clientes que requieren conectar dispositivos tipo telemetría a través de Internet",
+          "Plan Full Plus disponible: profesionaliza la gestión, blinda la privacidad de tu equipo y optimiza los costos de recargas por demanda (consulta condiciones con tu asesor)",
+          "Gestión administrativa nuevas líneas: Bs. 336,95",
+          "Consumo adicional — Minuto: Bs. 14,98 / SMS: Bs. 14,98 / MB: Bs. 1,01788",
           "Los precios incluyen IVA y están sujetos a modificaciones por cambio en el marco regulatorio normativo vigente"
         ]
       },
       {
-        "nombre": "Oficina Emprendedora Premium",
-        "slogan": "Conexión remota para máxima productividad — Conecta con lo que Te mueve",
-        "resumen": "50 GB para navegar",
-        "precio": "Bs. 15.246,72",
+        "nombre": "Internet Fibra Empresarial",
+        "slogan": "Soluciones de conectividad",
+        "resumenTexto": "Servicio de navegación para múltiples dispositivos, videollamadas en alta definición y procesos en la nube.",
+        "niveles": [
+          { "nombre": "200 MB", "precio": "Bs. 33.692,69" },
+          { "nombre": "400 MB (Recomendado)", "precio": "Bs. 44.923,59" },
+          { "nombre": "800 MB", "precio": "Bs. 71.137,70" }
+        ],
         "terminos": [
-          "Precio de 50 GB de Extradatos: Bs. 16.632,78",
-          "Gestión administrativa nuevas líneas: Bs. 249,49",
-          "Gastos administrativos para CDS: Bs. 1.108,84",
-          "SIM Card: Bs. 643,13 / eSIM: Bs. 1.108,84",
-          "Límite de Extradatos: se pueden activar hasta un máximo de 30 al mes",
+          "Instalación: Bs. 86.859,22",
           "Los precios incluyen IVA y están sujetos a modificaciones por cambio en el marco regulatorio normativo vigente"
         ]
       },
       {
         "nombre": "Oficina Emprendedora",
         "slogan": "Tu Pyme siempre en línea — Conecta con lo que Te mueve",
-        "resumen": "2.000 minutos nacionales + 20 GB",
-        "precio": "Bs. 7.207,53",
+        "niveles": [
+          { "nombre": "Senior", "descripcion": "20 GB y 2.000 minutos, compatible con servicio de Larga Distancia Internacional", "precio": "Bs. 9.734,22" },
+          { "nombre": "Premium", "descripcion": "50 GB para navegar. Al alcanzar el cupo del plan podrás solicitar hasta 30 Extradatos de 50 GB para continuar navegando", "precio": "Bs. 20.591,62" }
+        ],
         "terminos": [
           "Larga Distancia Internacional: solicita el servicio a través de *Pyme (*7963)",
-          "Gestión administrativa nuevas líneas: Bs. 249,49",
-          "Gastos administrativos para CDS: Bs. 1.108,84",
-          "SIM Card: Bs. 643,13 / eSIM: Bs. 1.108,84",
-          "Minuto adicional: Bs. 11,08999",
-          "MB adicional: Bs. 0,75366",
+          "Gestión administrativa nuevas líneas: Bs. 336,95",
+          "Gastos administrativos para CDS: Bs. 1.497,57",
+          "SIM Card: Bs. 868,58 / eSIM: Bs. 1.497,57",
+          "Precio de 50 GB de Extradatos: Bs. 22.463,60",
+          "Minuto adicional: Bs. 14,98000 / MB adicional: Bs. 1,01788",
+          "Los precios incluyen IVA y están sujetos a modificaciones por cambio en el marco regulatorio normativo vigente"
+        ]
+      },
+      {
+        "nombre": "Conectividad M2M (Machine to Machine)",
+        "slogan": "Conecta y descubre el poder al instante — Conecta con lo que Te mueve",
+        "variantes": [
+          { "nombre": "Plan Transmite M2M", "datos": "1.5 GB", "sms": "200", "minutos": "—", "precio": "Bs. 1.311,67" },
+          { "nombre": "Plan Transmite Plus M2M", "datos": "1.5 GB", "sms": "200", "minutos": "100 min", "precio": "Bs. 1.138,83" },
+          { "nombre": "Plan Empresas M2M", "datos": "300 MB", "sms": "200", "minutos": "—", "precio": "Bs. 1.346,18" },
+          { "nombre": "Plan Empresas Plus M2M", "datos": "300 MB", "sms": "200", "minutos": "100 min", "precio": "Bs. 1.346,18" }
+        ],
+        "terminos": [
+          "Disponible solo para equipos 3G y 4G",
+          "M2M Empresas: para clientes que requieren conectar dispositivos de localización a través de Internet",
+          "M2M Transmite: para clientes que requieren conectar dispositivos tipo telemetría a través de Internet",
+          "Gestión administrativa nuevas líneas: Bs. 336,95",
+          "SIM Card: Bs. 868,58 / eSIM: Bs. 1.497,57",
+          "Consumo adicional — Minuto: Bs. 14,98 / SMS: Bs. 14,98 / MB: Bs. 1,01788",
           "Los precios incluyen IVA y están sujetos a modificaciones por cambio en el marco regulatorio normativo vigente"
         ]
       },
       {
         "nombre": "PBX - Línea Fija Empresarial",
         "slogan": "Eficiencia en tus comunicaciones",
-        "resumen": "250 minutos incluidos",
-        "precio": "Bs. 2.772,13",
+        "resumen": "250 minutos incluidos para llamadas locales",
+        "precio": "Bs. 3.743,93 / mes",
         "terminos": [
-          "Activación PBX: Bs. 2.450,56",
-          "Minuto adicional: Bs. 11,08999",
+          "Activación PBX: Bs. 3.309,63",
+          "Equipo Phone Box Blue - Castle: Bs. 49.205,58",
           "Numeración según su localidad",
           "Larga Distancia Internacional: llamando a *PYME (*7963)",
+          "Minuto adicional: Bs. 14,98000",
           "Los precios incluyen IVA y están sujetos a modificaciones por cambio en el marco regulatorio normativo vigente"
         ]
       }

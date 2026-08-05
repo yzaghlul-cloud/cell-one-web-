@@ -190,8 +190,9 @@ function renderPromocionesPymes(pymes) {
 
   const tarjetas = pymes.planes
     .map((plan) => {
-      const precioBlock = plan.variantes
-        ? `<div class="table-scroll">
+      let precioBlock;
+      if (plan.variantes) {
+        precioBlock = `<div class="table-scroll">
             <table class="promo-table promo-table-compact">
               <thead>
                 <tr><th>Variante</th><th>Datos</th><th>Minutos</th><th>SMS</th><th>Precio</th></tr>
@@ -204,8 +205,24 @@ function renderPromocionesPymes(pymes) {
                   .join("")}
               </tbody>
             </table>
-          </div>`
-        : `<p class="promo-resumen">${plan.resumen || ""}</p><p class="promo-precio">${plan.precio || ""}</p>`;
+          </div>`;
+      } else if (plan.niveles) {
+        precioBlock = `<ul class="pyme-niveles">
+            ${plan.niveles
+              .map(
+                (n) => `<li>
+                  <div class="pyme-nivel-info">
+                    <span class="pyme-nivel-nombre">${n.nombre}</span>
+                    ${n.descripcion ? `<span class="pyme-nivel-desc">${n.descripcion}</span>` : ""}
+                  </div>
+                  <span class="pyme-nivel-precio">${n.precio}</span>
+                </li>`
+              )
+              .join("")}
+          </ul>`;
+      } else {
+        precioBlock = `<p class="promo-resumen">${plan.resumen || ""}</p><p class="promo-precio">${plan.precio || ""}</p>`;
+      }
 
       const terminos = plan.terminos?.length
         ? `<details class="promo-details">
@@ -218,6 +235,7 @@ function renderPromocionesPymes(pymes) {
         <article class="pyme-plan-card">
           <h4>${plan.nombre}</h4>
           ${plan.slogan ? `<p class="pyme-plan-slogan">${plan.slogan}</p>` : ""}
+          ${plan.resumenTexto ? `<p class="pyme-resumen-texto">${plan.resumenTexto}</p>` : ""}
           ${precioBlock}
           ${terminos}
         </article>`;
